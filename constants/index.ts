@@ -5,6 +5,7 @@ import {
   RxInstagramLogo,
   RxTwitterLogo,
   RxLinkedinLogo,
+  RxEnvelopeClosed,
 } from "react-icons/rx";
 
 export const SKILL_DATA = [
@@ -90,19 +91,14 @@ export const SKILL_DATA = [
 
 export const SOCIALS = [
   {
-    name: "Instagram",
-    icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    name: "Email",
+    icon: RxEnvelopeClosed,
+    link: "mailto:techninjas514@gmail.com",
   },
   {
-    name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
-  },
-  {
-    name: "Twitter",
-    icon: RxTwitterLogo,
-    link: "https://twitter.com",
+    name: "Github",
+    icon: RxGithubLogo,
+    link: "https://github.com/start514",
   },
 ] as const;
 

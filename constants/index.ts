@@ -255,25 +255,25 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "Little West Juice Company Website",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
+      'The Little West website was designed to embody the brand’s ethos of fresh, healthy living through a seamless digital experience. As a purveyor of cold-pressed juices made from locally sourced ingredients, Little West required a platform that would not only highlight the quality and benefits of their products but also facilitate easy navigation and purchasing for customers.',
     image: "/projects/project-1.png",
-    link: "https://example.com",
+    link: "https://littlewest.com",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "Book Hotels in Nigeria",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
+      'Hotels.ng is Nigeria’s leading online accommodation booking platform. The platform specializes in providing users with an extensive range of lodging options, including hotels, guest houses, and service apartments throughout Nigeria and beyond. With a focus on convenience, affordability, and user satisfaction, Hotels.ng aims to streamline the booking process and make personalized accommodation accessible to every traveler.',
     image: "/projects/project-2.png",
-    link: "https://example.com",
+    link: "https://hotels.ng",
   },
   {
-    title: "Space Themed Website",
+    title: "Aroga LifeStyle Medicine Clinic",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
+      'Aroga.com is an innovative platform designed to meet the need of peaceful and successful life of users. Our goal was to create a user-friendly website that provides medical lifestyle coaching service to the customers around the world.',
     image: "/projects/project-3.png",
-    link: "https://example.com",
+    link: "https://aroga.com",
   },
 ] as const;
 
